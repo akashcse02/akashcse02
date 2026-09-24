@@ -284,7 +284,6 @@ const akash = {
   <img width="100%" alt="Animated 3D GitHub contribution grid" src="https://raw.githubusercontent.com/akashcse02/akashcse02/output/github-contribution-grid-3d.svg"/>
 </picture>
 
-<sub>⚠️ এই 3D grid দেখতে হলে আপনার repo-তে <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action সেটআপ করে <code>output</code> branch generate করতে হবে — নাহলে image broken দেখাবে।</sub>
 
 </div>
 
@@ -301,7 +300,6 @@ const akash = {
   <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/akashcse02/akashcse02/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<sub>⚠️ এই snake animation দেখতে হলেও <code>output</code> branch-এ Platane/snk workflow থেকে <code>github-contribution-grid-snake.svg</code> generate হতে হবে (নিচের workflow note দেখুন)।</sub>
 
 </div>
 
