@@ -289,30 +289,6 @@ const akash = {
 
 <!-- ========================= SNAKE ========================= -->
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=78&color=0:020617,42:065F46,76:059669,100:34D399&text=CONTRIBUTION%20SNAKE&fontSize=26&fontColor=ECFDF5&animation=fadeIn&fontAlignY=52" alt="Animated contribution snake banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1500&pause=400&color=6EE7B7&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Eating+through+the+commit+grid...;Snake+on+the+contribution+board..." alt="Animated snake text"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashcse02/akashcse02/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashcse02/akashcse02/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/akashcse02/akashcse02/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-
-</div>
-
-<!-- ========================= PROFILE VIEW COUNTER ========================= -->
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=78&color=0:020617,42:78350F,76:B45309,100:F59E0B&text=PROFILE%20VIEW%20COUNT&fontSize=26&fontColor=FFFBEB&animation=fadeIn&fontAlignY=52" alt="Animated profile view counter banner"/>
-
-<img src="https://profile-counter.glitch.me/akashcse02/count.svg" alt="Digit-style profile view counter"/>
-
-<sub>Total visits to this profile, rendered as a digit-tile counter.</sub>
-
-</div>
 
 <!-- ========================= ROADMAP ========================= -->
 
